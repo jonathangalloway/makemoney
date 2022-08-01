@@ -1,0 +1,36 @@
+.Penny {
+    height: 25px;
+    width: 25px;
+    background-color: brown;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+.Nickel {
+    height: 25px;
+    width: 25px;
+    background-color: grey;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .Dime {
+    height: 25px;
+    width: 25px;
+    background-color: silver;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .Quarter {
+    height: 25px;
+    width: 25px;
+    background-color: lightgray;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .circle-txt {
+    position: absolute;
+    bottom: 50%;
+    width: 100%;
+    text-align: center;
+  }
